@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotproj.iml" filepath="$PROJECT_DIR$/.idea/modules/kotproj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotproj_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotproj_main.iml" group="kotproj" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotproj_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotproj_test.iml" group="kotproj" />
+    </modules>
+  </component>
+</project>
